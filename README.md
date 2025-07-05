@@ -84,5 +84,4 @@ veterinary-clinic/
 ├── database.db # Local SQLite database (created automatically)
 ├── requirements.txt # List of required Python packages
 └── .gitignore # Files excluded from version control
-```
 
