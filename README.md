@@ -77,11 +77,12 @@ The application will open a graphical interface where you can choose to operate 
 
 ## 📁 Project Structure
 
+```plaintext
 veterinary-clinic/
 │
 ├── main.py # Main application code
 ├── database.db # Local SQLite database (created automatically)
 ├── requirements.txt # List of required Python packages
 └── .gitignore # Files excluded from version control
-
+```
 
